@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/ujjwalcod/ujjwalcod/blob/main/2.png)
-<img src="(https://github.com/ujjwalcod/ujjwalcod/blob/main/2.png" height="100px" ></img>
+<img src="https://github.com/ujjwalcod/ujjwalcod/blob/main/2.png" height="100px" ></img>
 <h1 align="center">Hi 👋, I'm Ujjwal Mishra</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitgaur2205" alt="ujjwalcod" /></a> </p>
